@@ -1,0 +1,6 @@
+mapper:
+  base:
+    class: cn.lu.web.mapper.CrudMapper
+entity:
+  base:
+    class: cn.lu.web.base.BaseEntity
