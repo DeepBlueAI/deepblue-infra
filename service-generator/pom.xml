@@ -14,7 +14,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <java.version>1.8</java.version>
     <spring-boot.version>1.5.16.RELEASE</spring-boot.version>
-    <fastjson.version>1.2.15</fastjson.version>
+    <fastjson.version>1.2.25</fastjson.version>
     <lombok.version>1.16.14</lombok.version>
     <guava.version>22.0</guava.version>
     <version.tkmapper>2.1.5</version.tkmapper>
